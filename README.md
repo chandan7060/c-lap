@@ -1,0 +1,2 @@
+# c-lap
+linear search
